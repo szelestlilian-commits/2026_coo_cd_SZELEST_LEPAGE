@@ -13,4 +13,4 @@ chargeCd1 appelle extrairePiste() sur lui meme
 il appelle ajouterPiste sur cd1
 L'objet cd1 et ramené a chargeur
 chargeur appelle ajouterCd(cd1) sur magasin
-chargeur est ramené a Main 
+chargeur est ramené a Main
